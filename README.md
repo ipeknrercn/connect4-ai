@@ -7,6 +7,10 @@
 A Connect 4 game with an AI opponent that plays using the Minimax algorithm, optimised with Alpha-Beta Pruning. Built in Python with Pygame.
 
 ---
+demo video: https://youtu.be/Xk3rWXeidzU
+
+<img width="1162" height="827" alt="image" src="https://github.com/user-attachments/assets/22095e4c-f0b3-43aa-9a4f-2fde8f68a37a" />
+<img width="1162" height="821" alt="image" src="https://github.com/user-attachments/assets/71e7ffc0-3759-4e95-a733-2c2b05d12a01" />
 
 ## Features
 
